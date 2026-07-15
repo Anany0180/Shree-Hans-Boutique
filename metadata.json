@@ -1,0 +1,6 @@
+{
+  "name": "Shree Hans Boutique",
+  "description": "An elegant women's retail boutique specializing in Indian ethnic wear, custom tailoring, home essentials, and homemade food items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
